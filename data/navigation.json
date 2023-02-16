@@ -6,23 +6,23 @@
       "text": "Home"
     },
     {
-      "link": "/features/",
+      "link": "/features",
       "text": "Features"
     },
     {
-      "link": "/pricing/",
+      "link": "/pricing",
       "text": "Pricing"
     },
     {
-      "link": "/about/",
+      "link": "/about",
       "text": "About"
     },
     {
-      "link": "/blog/",
+      "link": "/blog",
       "text": "Blog"
     },
     {
-      "link": "/contact/",
+      "link": "/contact",
       "text": "Contact"
     }
   ],
