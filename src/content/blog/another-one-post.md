@@ -22,7 +22,7 @@ seo:
 ---
 # Lorem ipsum dolor sit amet, consectetur adipiscing elit.
 
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<img src="/images/blog/FB_IMG_1587635821725.jpg" width="400" height="500" />
+ <img src="/images/blog/FB_IMG_1587635821725.jpg" width="400" height="500" />
 
 Praesent nec aliquam magna. Integer et venenatis neque. Vestibulum malesuada purus ante, dignissim dictum arcu tempus vitae. Vestibulum ullamcorper eleifend ullamcorper. Duis pretium libero in eros molestie venenatis. Cras pellentesque congue porttitor. ***Praesent eu condimentum*** quam. Fusce eu sodales elit. Praesent feugiat turpis in felis elementum gravida. Integer dapibus quis ante id egestas. Vivamus varius, odio in porttitor tempus, enim lorem maximus nulla, ut sodales leo sem eu libero. Cras lobortis, eros non tristique imperdiet, eros diam feugiat leo, ut vestibulum sapien turpis non tellus. Donec metus tortor, laoreet non feugiat eget, scelerisque dignissim erat. Proin elementum erat et mauris laoreet luctus. Sed vel fermentum elit.
 
