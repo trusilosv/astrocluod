@@ -51,9 +51,8 @@ content_blocks:
 
 
       In short, web and mobile applications designed for entertainment or for
-      business. We have a long list
-      of&nbsp;[technologies](https://www.krononsoft.com/technologies)&nbsp;we
-      work with.
+      business. We have a long list of
+      [technologies](https://www.krononsoft.com/technologies) we work with.
 
 
       ## How You Can Get Our Help
