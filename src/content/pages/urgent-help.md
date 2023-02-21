@@ -2,9 +2,9 @@
 _schema: default
 title: Urgent Help
 seo:
-  page_description:
-  canonical_url:
-  featured_image:
+  page_description: 'jnsld f kv ikuwent fgrv sdfv sdfvsdfgb '
+  canonical_url: /about/
+  featured_image: /images/blog/157962179319682756.jpg
   featured_image_alt:
   author_twitter_handle:
   open_graph_type:
@@ -87,7 +87,7 @@ content_blocks:
       We believe that a good email marketing strategy is the key to growth. So
       we’re helping you grow your business with tools and resources that make
       email marketing easy.
-    image: /images/hero/hero-image-2.png
+    image: ''
     image_alt: Dashboard with reports
     button:
       text: Try This Free
