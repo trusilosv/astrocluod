@@ -75,8 +75,8 @@ content_blocks:
 
       Looking forward to hearing from you!
     hero_images:
-      - image: /images/about/aboutfeature-two.jpg
-        image_alt: People working on laptops
+      - image: ''
+        image_alt:
         placement: front_bottom
     button:
       text: Try This Free
