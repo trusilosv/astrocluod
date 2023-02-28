@@ -2,7 +2,7 @@
 _schema: default
 title: Test Page
 seo:
-  page_description: some kind of description
+  page_description: some kind of description +
   canonical_url: /urgent-help/
   featured_image: /uploads/man-with-plan.jpeg
   featured_image_alt:
