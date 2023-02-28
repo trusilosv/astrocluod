@@ -1,6 +1,6 @@
 ---
 _schema: paginated_collection
-title: Resource for maker to learn, sell & grow
+title: Clone page
 description: We believe in easy.
 page_size: 3
 seo:
