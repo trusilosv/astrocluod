@@ -21,7 +21,7 @@ content_blocks:
       text: Try This Free
       link: /signup/
   - _bookshop_name: global/counter
-    title: Scale your
+    title: Scale
     title_suffix: Business
     description: >-
       We have an extensive library of pre-written sales emails, proven marketing
@@ -49,7 +49,7 @@ content_blocks:
     image_alt: Thumbnail for video
     video_url: https://vimeo.com/45830194
   - _bookshop_name: global/header
-    title: "Sendit "
+    title: 'Sendit '
     title_suffix: Features
     remove_top_padding: true
     description: >-

@@ -40,6 +40,8 @@ In short, web and mobile applications designed for entertainment or for business
 
 ## How You Can Get Our Help
 
+<img src="/images/blog/AO9MEUB5UQQ.jpg" width="700" height="812" />
+
 The actions are very simple.
 
 1. Tell us about the level of urgency in your project via “Contact Us” form.
