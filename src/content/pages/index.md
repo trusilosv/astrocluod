@@ -128,4 +128,8 @@ content_blocks:
     button:
       text: Try This Free
       link: /signup
+  - _bookshop_name: global/error
+    description: Something is wrong here!
+    image: /images/404/error.png
+    image_alt: Error
 ---
