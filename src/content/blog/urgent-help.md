@@ -40,7 +40,7 @@ In short, web and mobile applications designed for entertainment or for business
 
 ## How You Can Get Our Help
 
-<img src="/images/blog/AO9MEUB5UQQ.jpg" width="700" height="812" />
+<img width="700" height="812" src="/images/blog/AO9MEUB5UQQ.jpg" />
 
 The actions are very simple.
 
