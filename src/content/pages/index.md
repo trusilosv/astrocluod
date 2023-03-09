@@ -117,4 +117,15 @@ content_blocks:
         message: >-
           I can't imagine life without Sendit now, I have no idea how we were
           surviving before.
+  - _bookshop_name: home/hero
+    title: Email Marketing is Future for Grow Your Business Revenues
+    description: >-
+      ***We believe that a good email marketing strategy is the key to growth.
+      So we’re helping you grow your business with tools and resources that make
+      email marketing easy.***
+    image: /images/hero/hero-one-shape.png
+    image_alt: Dashboard with reports
+    button:
+      text: Try This Free
+      link: /signup
 ---
