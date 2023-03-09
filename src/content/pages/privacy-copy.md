@@ -16,7 +16,7 @@ content_blocks:
     terms_and_conditions:
       - heading: Sendit Terms And Conditions
         description: >-
-          <p>By using Sendit, you agree to the terms and conditions listed on
+          <p>By using SenditSenditSendit, you agree to the terms and conditions listed on
           this page.</p> <p>Sendit may change the terms on this page. We will
           take steps to notify you when this occurs, but you are responsible for
           staying up-to-date with these changes.</p>
