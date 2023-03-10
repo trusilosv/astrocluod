@@ -12,9 +12,9 @@ seo:
 content_blocks:
   - _bookshop_name: global/header
     title: 'Sendit '
-    title_suffix:
+    title_suffix: d asd
     remove_top_padding: true
-    description: ''
+    description: '# **sdasdasd a**'
   - _bookshop_name: global/counter
     title: Scale
     title_suffix: Business
