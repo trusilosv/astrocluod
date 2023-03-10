@@ -50,11 +50,9 @@ content_blocks:
       link: /signup/
   - _bookshop_name: global/header
     title: 'Sendit '
-    title_suffix: Features
+    title_suffix:
     remove_top_padding: true
-    description: >-
-      Our platform offers the most advanced features including automated email
-      content creation, dynamic personalization, and customer segmentation.
+    description: ''
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
@@ -128,8 +126,4 @@ content_blocks:
     button:
       text: Try This Free
       link: /signup
-  - _bookshop_name: global/error
-    description: Something is wrong here!
-    image: /images/404/error.png
-    image_alt: Error
 ---

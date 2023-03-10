@@ -2,7 +2,7 @@
 _schema: default
 date: 2022-03-10T00:00:00Z
 title: Email delivery tips
-tags:
+tags: []
 author: Gerard Hopper
 thumb_image:
   image: /images/blog/blog-thumb-1.jpg
