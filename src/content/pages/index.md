@@ -10,6 +10,11 @@ seo:
   open_graph_type:
   no_index: false
 content_blocks:
+  - _bookshop_name: global/header
+    title: 'Sendit '
+    title_suffix:
+    remove_top_padding: true
+    description: ''
   - _bookshop_name: global/counter
     title: Scale
     title_suffix: Business
@@ -34,6 +39,17 @@ content_blocks:
         number: 4322
         suffix: +
         text: Active users and growing
+  - _bookshop_name: home/hero
+    title: Email Marketing is Future for Grow Your Business Revenues
+    description: >-
+      ***We believe that a good email marketing strategy is the key to growth.
+      So we’re helping you grow your business with tools and resources that make
+      email marketing easy.***
+    image: /images/hero/hero-one-shape.png
+    image_alt: Dashboard with reports
+    button:
+      text: Try This Free
+      link: /signup
   - _bookshop_name: home/video
     image: /images/video/video-thum.jpg
     image_alt: Thumbnail for video
@@ -48,11 +64,6 @@ content_blocks:
     button:
       text: Try This Free
       link: /signup/
-  - _bookshop_name: global/header
-    title: 'Sendit '
-    title_suffix:
-    remove_top_padding: true
-    description: ''
   - _bookshop_name: global/feature
     image: /images/feature/feature-card-one.png
     image_alt: Message inbox
@@ -115,15 +126,4 @@ content_blocks:
         message: >-
           I can't imagine life without Sendit now, I have no idea how we were
           surviving before.
-  - _bookshop_name: home/hero
-    title: Email Marketing is Future for Grow Your Business Revenues
-    description: >-
-      ***We believe that a good email marketing strategy is the key to growth.
-      So we’re helping you grow your business with tools and resources that make
-      email marketing easy.***
-    image: /images/hero/hero-one-shape.png
-    image_alt: Dashboard with reports
-    button:
-      text: Try This Free
-      link: /signup
 ---
