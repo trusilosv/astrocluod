@@ -3,6 +3,7 @@ _schema: default
 date: 2022-03-09T00:00:00Z
 title: How to host better email marketing campaigns?
 tags:
+  - marketing
 author: Arther Conal
 thumb_image:
   image: /images/blog/blog-thumb-2.jpg
