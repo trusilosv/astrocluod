@@ -10,11 +10,47 @@ seo:
   open_graph_type:
   no_index: false
 content_blocks:
-  - _bookshop_name: global/header
-    title: 'Sendit '
-    title_suffix: d asd
-    remove_top_padding: true
-    description: '# **sdasdasd a**'
+  - _bookshop_name: contact/form
+    address:
+      heading: Office Address
+      address: 1421 San Pedro St, Los Angeles, CA 90015
+    phone:
+      heading: Phone
+      cell: (546) 232 - 9872
+      image: /uploads/1.png
+      image_alt: call-add
+    email:
+      heading: Email
+      email: hello@example.com
+      image: /images/contact/directbox-send.svg
+      image_alt: send-box
+    form:
+      heading: Say Hello
+      fullname:
+        heading: Full Name
+        placeholder: Enter First Name
+      phone_number:
+        heading: Phone number
+        placeholder: Enter Phone Number
+      email:
+        heading: Email Address
+        placeholder: Enter Email Address
+      message:
+        heading: Your Messages
+        placeholder: Any Message
+      submit_button:
+        text: Send message
+  - _bookshop_name: home/hero
+    title: Email Marketing is Future for Grow Your Business Revenues
+    description: >-
+      ***We believe that a good email marketing strategy is the key to growth.
+      So we’re helping you grow your business with tools and resources that make
+      email marketing easy.***
+    image: /images/hero/hero-one-shape.png
+    image_alt: Dashboard with reports
+    button:
+      text: Try This Free
+      link: /signup
   - _bookshop_name: global/counter
     title: Scale
     title_suffix: Business
@@ -39,17 +75,11 @@ content_blocks:
         number: 4322
         suffix: +
         text: Active users and growing
-  - _bookshop_name: home/hero
-    title: Email Marketing is Future for Grow Your Business Revenues
-    description: >-
-      ***We believe that a good email marketing strategy is the key to growth.
-      So we’re helping you grow your business with tools and resources that make
-      email marketing easy.***
-    image: /images/hero/hero-one-shape.png
-    image_alt: Dashboard with reports
-    button:
-      text: Try This Free
-      link: /signup
+  - _bookshop_name: global/header
+    title: 'Sendit '
+    title_suffix: d asd
+    remove_top_padding: true
+    description: '# **sdasdasd a**'
   - _bookshop_name: home/video
     image: /images/video/video-thum.jpg
     image_alt: Thumbnail for video
