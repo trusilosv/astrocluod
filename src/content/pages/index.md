@@ -80,7 +80,12 @@ content_blocks:
     title: 'Sendit '
     title_suffix: d asd
     remove_top_padding: true
-    description: '# **sdasdasd a**'
+    description: |-
+      # &nbsp;sd sad sd
+
+      text 1
+
+      text2
   - _bookshop_name: home/video
     image: /images/video/video-thum.jpg
     image_alt: Thumbnail for video
