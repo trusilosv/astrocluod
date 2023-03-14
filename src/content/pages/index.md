@@ -55,8 +55,8 @@ content_blocks:
     title: Scale
     title_suffix: Business
     description: >-
-      We have an extensive library of pre-written sales emails, proven marketing
-      templates, and more to get you started on your next project.
+      # **We have an extensive library of pre-written sales emails, proven
+      marketing templates, and more to get you started on your next project.**
     alternate_style: false
     numbers:
       - prefix: $
@@ -156,4 +156,6 @@ content_blocks:
         message: >-
           I can't imagine life without Sendit now, I have no idea how we were
           surviving before.
+  - _bookshop_name: privacy/hero
+    title: g dfgdfg
 ---
