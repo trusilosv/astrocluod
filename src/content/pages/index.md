@@ -13,7 +13,7 @@ content_blocks:
   - _bookshop_name: global/header
     title: 'Sendit '
     title_suffix: d asd
-    remove_top_padding: true
+    remove_top_padding: false
     description: |-
       # H1!!!!
 
@@ -22,6 +22,53 @@ content_blocks:
       P2 wq qwd qw
 
       [p3](/)
+  - _bookshop_name: global/counter
+    title: Scale
+    title_suffix: Business
+    description: >-
+      * **We have an extensive library of pre-written sales emails, proven
+      marketing templates, and more to get you started on your next project.**
+
+      * **We have an extensive library of pre-written sales emails, proven
+      marketing templates, and more to get you started on your next project.**
+
+      * **We have an extensive library of pre-written sales emails, proven
+      marketing templates, and more to get you started on your next project.**
+
+      * **We have an extensive library of pre-written sales emails, proven
+      marketing templates, and more to get you started on your next project.**
+
+      * **We have an extensive library of pre-written sales emails, proven
+      marketing templates, and more to get you started on your next project.**
+
+      * **We have an extensive library of pre-written sales emails, proven
+      marketing templates, and more to get you started on your next project.**
+
+      * **We have an extensive library of pre-written sales emails, proven
+      marketing templates, and more to get you started on your next project.**
+
+      * **We have an extensive library of pre-written sales emails, proven
+      marketing templates, and more to get you started on your next project.**
+
+      * **v**
+    alternate_style: false
+    numbers:
+      - prefix: $
+        number: 200
+        suffix: m
+        text: Venture capital raised
+      - prefix:
+        number: 2016
+        suffix:
+        text: Established in
+      - prefix:
+        number: 40
+        suffix: +
+        text: Amazing team members
+      - prefix:
+        number: 4322
+        suffix: +
+        text: Active users and growing
   - _bookshop_name: contact/form
     address:
       heading: Office Address
@@ -63,29 +110,4 @@ content_blocks:
     button:
       text: Try This Free
       link: /signup
-  - _bookshop_name: global/counter
-    title: Scale
-    title_suffix: Business
-    description: >-
-      # **[We have an](/home) extensive library of pre-written sales emails,
-      proven marketing templates, and more to get you started on your next
-      project.**
-    alternate_style: false
-    numbers:
-      - prefix: $
-        number: 200
-        suffix: m
-        text: Venture capital raised
-      - prefix:
-        number: 2016
-        suffix:
-        text: Established in
-      - prefix:
-        number: 40
-        suffix: +
-        text: Amazing team members
-      - prefix:
-        number: 4322
-        suffix: +
-        text: Active users and growing
 ---

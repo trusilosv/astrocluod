@@ -43,6 +43,10 @@
         {
           "link": "/about",
           "text": "About"
+        },
+        {
+          "link": "",
+          "text": ""
         }
       ]
     },
