@@ -55,8 +55,9 @@ content_blocks:
     title: Scale
     title_suffix: Business
     description: >-
-      # **We have an extensive library of pre-written sales emails, proven
-      marketing templates, and more to get you started on your next project.**
+      # **[We have an](/home) extensive library of pre-written sales emails,
+      proven marketing templates, and more to get you started on your next
+      project.**
     alternate_style: false
     numbers:
       - prefix: $
