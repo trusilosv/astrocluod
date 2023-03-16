@@ -19,7 +19,7 @@ content_blocks:
 
       P1
 
-      P2 wq qwd qw
+      **P2 wq qwd qw**
 
       [p3](/)
   - _bookshop_name: global/counter
