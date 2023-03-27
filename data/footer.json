@@ -22,6 +22,14 @@
     {
       "link": "https://www.youtube.com/mycompany",
       "social_icon": "ph-youtube-logo"
+    },
+    {
+      "link": "",
+      "social_icon": ""
+    },
+    {
+      "link": "",
+      "social_icon": ""
     }
   ],
   "sections": [
