@@ -1,10 +1,10 @@
 ---
 _schema: default
 date: 2023-02-20T07:31:50Z
-title: Urgent Help
+title: Urgent
 tags:
   - blog
-author: Gerard Hopper
+author: Gera
 thumb_image:
   image: ''
   image_alt: ''
