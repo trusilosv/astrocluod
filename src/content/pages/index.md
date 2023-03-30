@@ -19,9 +19,7 @@ content_blocks:
 
       P1
 
-      **P2 wq qwd qw**
-
-      [p3](/)
+      **P2 wq qwd qw**eeee
   - _bookshop_name: global/counter
     title: Scale
     title_suffix: Business

@@ -16,6 +16,7 @@ export default function Blocks({ contentBlocks, dataBinding }) {
       const latestValue = await CloudCannon.value({
         keepMarkdownAsHTML: false,
       });
+      console.log("latestValue",latestValue);
       setBlocks(latestValue.content_blocks ?? []);
     } catch (fetchError) {
       console.warn("Failed to fetch latest page props", fetchError);
