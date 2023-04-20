@@ -20,14 +20,13 @@ seo:
   open_graph_type: article
   no_index: false
 ---
- Urgent Hel
-
+Urgent Hel
 
 Whenever you need urgent help from software engineers, we are around!
 
 It happens that owners of software products need help with their codebase, or infrastructure, or deployment tools and need it fast. Our special software emergency care department that consists of senior engineers with various skill sets is ready to jump in and solve the problem.
 
-## When You May Need Our Help
+## ![](https://res.cloudinary.com/dtohqkvto/image/upload/v1681997892/cld-sample-2.jpg)When You May Need Our Help
 
 1. The code is developed but is not working according to the specification. Our developer will perform a code review, explain the nature of the inconsistencies to the customer, suggest a solution that takes into account the time constraints, and apply the adjustments.
 2. The code has been developed but not deployed to any server. Our engineer will check the code, pick the right server instance on the right hosting, set up suitable deployment tools, and roll the app out. As a result, you will get full deployment infrastructure as well as changes in the code.
